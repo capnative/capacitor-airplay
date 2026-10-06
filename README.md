@@ -1,4 +1,4 @@
-# capacitor-airplay
+# Capacitor AirPlay
 
 A Capacitor plugin that opens Apple's native iOS AirPlay picker from JavaScript or TypeScript.
 
