@@ -8,6 +8,14 @@ A Capacitor plugin that opens Apple's native iOS AirPlay picker from JavaScript 
 | -------------- | ----------------------- | ---------- |
 | v8.\*.\*       | v8.\*.\*                | ✅         |
 
+## Supported platforms
+
+| Platform | Support | Minimum version            |
+| -------- | ------- | -------------------------- |
+| iOS      | ✅      | iOS 15                     |
+| Android  | ❌      | —                          |
+| Web      | ❌      | —                          |
+
 ## Install
 
 ```bash
