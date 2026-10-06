@@ -18,14 +18,6 @@ npx cap sync
 ## Basic usage
 
 ```typescript
-import { AirPlay } from 'capacitor-airplay';
-
-await AirPlay.show();
-```
-
-## Availability check
-
-```typescript
 const { available } = await AirPlay.isAvailable();
 
 if (available) {
