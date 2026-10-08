@@ -20,11 +20,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marioshtika/capacitor-airplay.git"
+    "url": "git+https://github.com/capnative/capacitor-airplay.git"
   },
-  "homepage": "https://github.com/marioshtika/capacitor-airplay",
+  "homepage": "https://github.com/capnative/capacitor-airplay",
   "bugs": {
-    "url": "https://github.com/marioshtika/capacitor-airplay/issues"
+    "url": "https://github.com/capnative/capacitor-airplay/issues"
   },
   "keywords": [
     "capacitor",
