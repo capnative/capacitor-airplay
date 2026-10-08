@@ -2,11 +2,11 @@
 import PackageDescription
 
 let package = Package(
-    name: "CapacitorAirplay",
+    name: "CapnativeCapacitorAirplay",
     platforms: [.iOS(.v15)],
     products: [
         .library(
-            name: "CapacitorAirplay",
+            name: "CapnativeCapacitorAirplay",
             targets: ["AirPlayPlugin"])
     ],
     dependencies: [
