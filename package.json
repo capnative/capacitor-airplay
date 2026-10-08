@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-airplay",
+  "name": "@capnative/capacitor-airplay",
   "version": "8.0.0",
   "description": "Open the native iOS AirPlay picker from Capacitor",
   "main": "dist/plugin.cjs.js",
