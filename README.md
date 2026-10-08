@@ -19,13 +19,15 @@ A Capacitor plugin that opens Apple's native iOS AirPlay picker from JavaScript 
 ## Install
 
 ```bash
-npm install capacitor-airplay
+npm install @capnative/capacitor-airplay
 npx cap sync
 ```
 
 ## Basic usage
 
 ```typescript
+import { AirPlay } from '@capnative/capacitor-airplay';
+
 const { available } = await AirPlay.isAvailable();
 
 if (available) {
